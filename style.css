@@ -55,6 +55,17 @@ h1, h2 {
     color: #b22222; /* Warna merah */
 }
 
+/* Heading and Content Styles */
+h3, h2 {
+    color: #b22222; /* Warna merah */
+    font-size: 1em;
+}
+
+/* Heading and Content Styles */
+h5, h2 {
+    color: #dfbb1ae7; /* Warna emas */
+}
+
 .content {
     display: flex;
     justify-content: space-between;
